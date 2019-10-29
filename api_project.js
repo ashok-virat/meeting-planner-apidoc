@@ -1,0 +1,16 @@
+define({
+  "name": "meeting planner",
+  "version": "0.0.1",
+  "description": "Documentaion for Meeting Planner",
+  "title": "Meeting Planner API",
+  "url": "http:localhost:4001",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2019-10-29T12:02:24.917Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.7"
+  }
+});
